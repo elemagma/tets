@@ -294,7 +294,7 @@ function create_config( )
     "id_2",
     "tekrar"
     },
-    sudo_users = {0000000},--Sudo users
+    sudo_users = {95876809},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeLe MaGmA BOT beta
